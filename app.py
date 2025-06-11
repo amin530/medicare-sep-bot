@@ -1,19 +1,27 @@
 import streamlit as st
-def authenticate():
-    password = st.text_input("Enter password", type="password")
-    if password != "Prime25":
-        st.warning("Unauthorized access.")
-        st.stop()
-authenticate()
-from core import extract_text, clean_and_extract_with_gpt, check_iep2, check_icep_iep, check_part_b_status, check_dst_sep, check_mcd_sep, check_dif_sep
-from datetime import datetime
-import streamlit as st
-import os
-
 st.set_page_config(page_title="Medicare SEP Bot", layout="centered")
+
+from core import (
+    extract_text,
+    clean_and_extract_with_gpt,
+    check_iep2,
+    check_icep_iep,
+    check_part_b_status,
+    check_dst_sep,
+    check_mcd_sep,
+    check_dif_sep,
+    check_lec_sep,
+    fallback_questions,
+)
+from datetime import datetime
+
 st.title("🧠 Enhanced Medicare SEP Bot")
 
-uploaded_files = st.file_uploader("Upload MARx or Medicaid screenshots (Page 1 & 2)", accept_multiple_files=True, type=["png", "jpg", "jpeg"])
+uploaded_files = st.file_uploader(
+    "Upload MARx or Medicaid screenshots (Page 1 & 2)",
+    accept_multiple_files=True,
+    type=["png", "jpg", "jpeg"],
+)
 
 if uploaded_files:
     combined_text = ""
@@ -43,18 +51,16 @@ if uploaded_files:
         county = data.get("county", "")
         state = data.get("state", "")
         elections = data.get("recent_elections", [])
-        levels = data.get("recent_lis_levels", [])
-
         contract_code_display = f"H{contract}-{pbp}" if contract and pbp else "N/A"
 
         st.markdown(f"**👤 Name:** {full_name}")
         st.markdown(f"**🆔 MBI:** {mbi}")
         st.markdown(f"**🎂 DOB:** {dob}")
         if contract_code_display != "N/A":
-            st.markdown(f"**📄 Current Plan:** [{contract_code_display}](https://www.google.com/search?q={contract_code_display})")
+            st.markdown(f"**📄 Current Plan:** [H{contract}-{pbp}](https://www.google.com/search?q=H{contract}-{pbp})")
         else:
             st.markdown("**📄 Current Plan:** Not found")
-        st.markdown(f"**🏥 Plan Type:** {plan}")
+        st.markdown(f"**📋 Plan Type:** {plan}")
         st.markdown(f"**📍 Location:** {county}, {state}")
         if elections:
             st.markdown(f"**🗳️ Election Code(s):** {', '.join(elections)}")
@@ -74,83 +80,57 @@ if uploaded_files:
 
         st.subheader("📊 SEP Eligibility Results")
 
-        sep_results = []
-
         try:
             a_date = datetime.strptime(part_a, "%m/%d/%Y")
             b_date = datetime.strptime(part_b, "%m/%d/%Y")
             today = datetime.today()
             if abs((today - a_date).days) <= 90 and a_date == b_date:
                 st.success(f"✅ ICEP/IEP likely (Part A and B start: {a_date.strftime('%m/%d/%Y')})")
-                sep_results.append("ICEP")
             elif b_date > a_date:
                 st.info(f"⚠️ Part B started after Part A (A: {part_a}, B: {part_b}) — ICEP may apply")
-                sep_results.append("ICEP")
             else:
                 st.info(f"❌ ICEP/IEP window likely passed (A: {part_a}, B: {part_b})")
         except:
             st.warning("❌ Failed to determine ICEP/IEP timing.")
 
-        iep2_msg = check_iep2(dob)
-        if "✅" in iep2_msg:
-            st.success(iep2_msg)
-            sep_results.append("IEP2")
-        elif "⚠️" in iep2_msg:
-            st.warning(iep2_msg)
-        else:
-            st.error(iep2_msg)
+        st.markdown(check_iep2(dob))
 
         b_status_flag = check_part_b_status(part_b_status)
         if b_status_flag:
             st.warning(b_status_flag)
 
+        levels = data.get("recent_lis_levels", [])
         if levels:
-            last = levels[-1]
             try:
+                last = levels[-1]
                 last_date = datetime.strptime(last["start_date"], "%m/%d/%Y")
                 days = (datetime.today() - last_date).days
                 if days <= 90:
                     st.success(f"✅ LIS (NLS): LIS level change within last 3 months (started {last['start_date']})")
-                    sep_results.append("NLS")
                 else:
                     st.info("❌ No LIS level change in last 3 months.")
             except:
                 st.info("❌ LIS level could not be parsed.")
         else:
-            st.info("❌ LIS level data not found.")
+            st.info("❌ LIS data missing from GPT response.")
 
         dst_result = check_dst_sep(county, state)
         if dst_result:
             st.success(dst_result)
-            sep_results.append("DST")
 
         mcd_result = check_mcd_sep(data)
         if mcd_result:
             st.success(mcd_result)
-            sep_results.append("MCD")
 
         dif_result = check_dif_sep(data)
         if dif_result:
             st.success(dif_result)
-            sep_results.append("DIF")
 
-        # ✅ LEC Logic
-        try:
-            if contract.startswith("8") and "202" in plan:
-                st.success("✅ LEC SEP: Recent loss of employer/union coverage.")
-                sep_results.append("LEC")
-        except:
-            pass
+        lec_result = check_lec_sep(data)
+        if lec_result:
+            st.success(lec_result)
 
-        # ✅ Fallback prompts if no SEP or only DST
-        if not sep_results or sep_results == ["DST"]:
-            st.subheader("🧠 No strong SEP found — Ask the following:")
-            tips = [
-                "🌟 Check if there’s a 5-Star plan available. *(⭐ SEP)*",
-                "💖 Ask if they have a chronic condition like diabetes or heart issues. *(C-SNP SEP)*",
-                "🚚 Check if the customer moved recently (within 2 months). *(MOV SEP)*",
-                "🏢 Ask if they’re losing employer/COBRA coverage. *(LEC SEP)*"
-            ]
-            for tip in tips:
-                st.info(tip)
-
+        if not any([lec_result, dif_result, mcd_result, dst_result]):
+            st.subheader("🧩 Additional SEP Questions to Ask")
+            for text, icon in fallback_questions():
+                st.info(f"{icon} {text}")
