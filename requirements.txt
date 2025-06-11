@@ -1,5 +1,5 @@
 streamlit
 pytesseract
+Pillow
 openai
 python-dotenv
-Pillow
