@@ -82,13 +82,9 @@ def check_icep_iep(part_a_date, part_b_date):
     try:
         a = datetime.strptime(part_a_date, "%m/%d/%Y")
         b = datetime.strptime(part_b_date, "%m/%d/%Y")
-        today = datetime.today()
-        if a == b and abs((today - a).days) <= 90:
+        if a == b:
             return f"✅ ICEP/IEP likely (Part A and B start: {a.strftime('%m/%d/%Y')})"
-        elif b > a:
-            return f"⚠️ Part B after Part A → May qualify for ICEP (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
-        else:
-            return f"❌ ICEP/IEP window likely passed (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
+        return f"⚠️ Part B after Part A → May qualify for ICEP (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
     except:
         return "❌ Failed to determine ICEP/IEP."
 
@@ -132,20 +128,3 @@ def check_dif_sep(data):
         if any("pdp" in e.lower() for e in elections):
             return "✅ DIF SEP: Auto-enrolled PDP after X0001 election."
     return None
-
-def check_lec_sep(data):
-    elections = data.get("recent_elections", [])
-    if any("employer" in e.lower() or "cobra" in e.lower() for e in elections):
-        return "✅ LEC SEP: Lost employer or COBRA coverage."
-    return None
-
-def show_no_sep_suggestions():
-    return [
-        ("Check if there's a 5-star plan in their area", "⭐", "5ST"),
-        ("Ask if the customer has a chronic condition (e.g., diabetes, heart)", "❤️", "C-SNP"),
-        ("Check if the customer recently moved", "📦", "MOV"),
-        ("Ask if they were recently released from jail", "🚓", "INC"),
-        ("Ask if they lost employer/union/retiree coverage", "📉", "LCC"),
-        ("Check if they’re leaving Medicaid or Extra Help soon", "📅", "TRM"),
-        ("Check if customer just left a Dual/Chronic SNP plan", "👋", "SNP"),
-    ]
