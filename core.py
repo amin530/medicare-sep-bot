@@ -1,3 +1,4 @@
+# core.py
 from PIL import Image
 import pytesseract
 import openai
@@ -83,10 +84,17 @@ def check_icep_iep(part_a_date, part_b_date):
         a = datetime.strptime(part_a_date, "%m/%d/%Y")
         b = datetime.strptime(part_b_date, "%m/%d/%Y")
         if a == b:
-            return f"✅ ICEP/IEP likely (Part A and B start: {a.strftime('%m/%d/%Y')})"
-        return f"⚠️ Part B after Part A → May qualify for ICEP (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
+            delta = abs((datetime.today() - a).days)
+            if delta <= 90:
+                return f"✅ ICEP/IEP likely (Part A and B start: {a.strftime('%m/%d/%Y')})"
+            else:
+                return f"❌ ICEP/IEP window likely passed (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
+        elif b > a:
+            return f"⚠️ Part B started after Part A (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')}) — ICEP may apply"
+        else:
+            return f"❌ ICEP/IEP logic invalid (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
     except:
-        return "❌ Failed to determine ICEP/IEP."
+        return "❌ Failed to determine ICEP/IEP timing."
 
 def check_part_b_status(status):
     if not status or "currently entitled" not in status.lower():
@@ -108,7 +116,7 @@ def check_dst_sep(county, state):
             if today > ends:
                 continue
             if "ALL" in record_counties or county.upper() in record_counties:
-                return f"✅ DST SEP active for {county.title()}, {state.upper()} (ends {end})"
+                return f"✅ DST SEP active for {county.title()}, {state.upper()} (ends {ends.strftime('%m/%d/%Y')})"
         except:
             continue
     return None
@@ -132,16 +140,5 @@ def check_dif_sep(data):
 def check_lec_sep(data):
     elections = data.get("recent_elections", [])
     if any("employer" in e.lower() or "cobra" in e.lower() for e in elections):
-        return "✅ LEC SEP: Lost employer or COBRA coverage."
+        return "✅ LEC SEP: Recent loss of employer or COBRA coverage."
     return None
-
-def fallback_questions():
-    return [
-        ("Check if there's a 5-star plan in their area.", "⭐"),
-        ("Check if the customer has a chronic condition like diabetes or heart disease.", "❤️"),
-        ("Check if the customer recently moved.", "📦"),
-        ("Check if the customer was recently released from incarceration.", "🚔"),
-        ("Ask if the customer just lost Medicaid or LIS.", "📉"),
-        ("Ask if they left a dual-eligible or SNP plan.", "♿"),
-        ("Check if the customer is leaving long-term care.", "🏥"),
-    ]
