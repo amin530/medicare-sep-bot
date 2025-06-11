@@ -1,27 +1,12 @@
-import streamlit as st
-st.set_page_config(page_title="Medicare SEP Bot", layout="centered")
-
-from core import (
-    extract_text,
-    clean_and_extract_with_gpt,
-    check_iep2,
-    check_icep_iep,
-    check_part_b_status,
-    check_dst_sep,
-    check_mcd_sep,
-    check_dif_sep,
-    check_lec_sep,
-    fallback_questions,
-)
+from core import extract_text, clean_and_extract_with_gpt, check_iep2, check_icep_iep, check_part_b_status, check_dst_sep, check_mcd_sep, check_dif_sep
 from datetime import datetime
+import streamlit as st
+import os
 
+st.set_page_config(page_title="Medicare SEP Bot", layout="centered")
 st.title("🧠 Enhanced Medicare SEP Bot")
 
-uploaded_files = st.file_uploader(
-    "Upload MARx or Medicaid screenshots (Page 1 & 2)",
-    accept_multiple_files=True,
-    type=["png", "jpg", "jpeg"],
-)
+uploaded_files = st.file_uploader("Upload MARx or Medicaid screenshots (Page 1 & 2)", accept_multiple_files=True, type=["png", "jpg", "jpeg"])
 
 if uploaded_files:
     combined_text = ""
@@ -39,6 +24,7 @@ if uploaded_files:
     if "error" in data:
         st.error(f"GPT Error: {data['error']}")
     else:
+        # Summary
         full_name = data.get("full_name", "N/A")
         dob = data.get("date_of_birth", "N/A")
         mbi = data.get("mbi", "N/A").replace("O", "0")
@@ -57,14 +43,15 @@ if uploaded_files:
         st.markdown(f"**🆔 MBI:** {mbi}")
         st.markdown(f"**🎂 DOB:** {dob}")
         if contract_code_display != "N/A":
-            st.markdown(f"**📄 Current Plan:** [H{contract}-{pbp}](https://www.google.com/search?q=H{contract}-{pbp})")
+            st.markdown(f"**📄 Current Plan:** [{contract_code_display}](https://www.google.com/search?q={contract_code_display})")
         else:
             st.markdown("**📄 Current Plan:** Not found")
-        st.markdown(f"**📋 Plan Type:** {plan}")
+        st.markdown(f"**🏥 Plan Type:** {plan}")
         st.markdown(f"**📍 Location:** {county}, {state}")
         if elections:
             st.markdown(f"**🗳️ Election Code(s):** {', '.join(elections)}")
 
+        # STOP logic for Employer/PACE contracts
         if contract.startswith("8") and not data.get("part_b_status", "").strip():
             st.error("🛑 Employer Group Plan Detected (starts with '8') and no Part B end date. Do NOT proceed.")
             st.stop()
@@ -75,11 +62,13 @@ if uploaded_files:
             st.error("🛑 PACE plan detected. Do NOT proceed.")
             st.stop()
 
+        # LAYUP detection for PDP only
         if "prescription drug" in plan.lower() and part_a and part_b:
             st.success("🎯 LAYUP: Customer has PDP-only and both Part A + B. Easy switch if no other coverage.")
 
         st.subheader("📊 SEP Eligibility Results")
 
+        # Valid ICEP/IEP logic ONLY if today is around the A/B start
         try:
             a_date = datetime.strptime(part_a, "%m/%d/%Y")
             b_date = datetime.strptime(part_b, "%m/%d/%Y")
@@ -94,23 +83,25 @@ if uploaded_files:
             st.warning("❌ Failed to determine ICEP/IEP timing.")
 
         st.markdown(check_iep2(dob))
-
         b_status_flag = check_part_b_status(part_b_status)
         if b_status_flag:
             st.warning(b_status_flag)
 
-        levels = data.get("recent_lis_levels", [])
-        if levels:
-            try:
+        if "recent_lis_levels" in data:
+            levels = data["recent_lis_levels"]
+            if levels:
                 last = levels[-1]
-                last_date = datetime.strptime(last["start_date"], "%m/%d/%Y")
-                days = (datetime.today() - last_date).days
-                if days <= 90:
-                    st.success(f"✅ LIS (NLS): LIS level change within last 3 months (started {last['start_date']})")
-                else:
-                    st.info("❌ No LIS level change in last 3 months.")
-            except:
-                st.info("❌ LIS level could not be parsed.")
+                try:
+                    last_date = datetime.strptime(last["start_date"], "%m/%d/%Y")
+                    days = (datetime.today() - last_date).days
+                    if days <= 90:
+                        st.success(f"✅ LIS (NLS): LIS level change within last 3 months (started {last['start_date']})")
+                    else:
+                        st.info("❌ No LIS level change in last 3 months.")
+                except:
+                    st.info("❌ LIS level could not be parsed.")
+            else:
+                st.info("❌ No LIS level data available.")
         else:
             st.info("❌ LIS data missing from GPT response.")
 
@@ -125,12 +116,3 @@ if uploaded_files:
         dif_result = check_dif_sep(data)
         if dif_result:
             st.success(dif_result)
-
-        lec_result = check_lec_sep(data)
-        if lec_result:
-            st.success(lec_result)
-
-        if not any([lec_result, dif_result, mcd_result, dst_result]):
-            st.subheader("🧩 Additional SEP Questions to Ask")
-            for text, icon in fallback_questions():
-                st.info(f"{icon} {text}")
