@@ -142,3 +142,21 @@ def check_lec_sep(data):
     if any("employer" in e.lower() or "cobra" in e.lower() for e in elections):
         return "✅ LEC SEP: Recent loss of employer or COBRA coverage."
     return None
+def check_lec_sep(data):
+    elections = data.get("recent_elections", [])
+    for election in elections:
+        if "lec" in election.lower():
+            return "✅ LEC SEP: Used LEC code recently — review eligibility for SEP."
+    return None
+
+def show_no_sep_suggestions():
+    suggestions = [
+        ("Check if the customer recently moved", "🏡", "MOV"),
+        ("Ask if they were recently released from jail", "🚓", "INC"),
+        ("Check if there's a 5-star plan available", "⭐", "5ST"),
+        ("Ask if they have a chronic condition (e.g., diabetes, heart)", "❤️", "C-SNP"),
+        ("Ask if they lost employer/union/retiree coverage", "📉", "LCC"),
+        ("Check if they’re leaving Medicaid or Extra Help soon", "📅", "TRM"),
+        ("Check if customer just left a Dual/Chronic SNP plan", "👋", "SNP"),
+    ]
+    return suggestions
