@@ -1,4 +1,3 @@
-# core.py
 from PIL import Image
 import pytesseract
 import openai
@@ -83,18 +82,15 @@ def check_icep_iep(part_a_date, part_b_date):
     try:
         a = datetime.strptime(part_a_date, "%m/%d/%Y")
         b = datetime.strptime(part_b_date, "%m/%d/%Y")
-        if a == b:
-            delta = abs((datetime.today() - a).days)
-            if delta <= 90:
-                return f"✅ ICEP/IEP likely (Part A and B start: {a.strftime('%m/%d/%Y')})"
-            else:
-                return f"❌ ICEP/IEP window likely passed (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
+        today = datetime.today()
+        if a == b and abs((today - a).days) <= 90:
+            return f"✅ ICEP/IEP likely (Part A and B start: {a.strftime('%m/%d/%Y')})"
         elif b > a:
-            return f"⚠️ Part B started after Part A (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')}) — ICEP may apply"
+            return f"⚠️ Part B after Part A → May qualify for ICEP (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
         else:
-            return f"❌ ICEP/IEP logic invalid (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
+            return f"❌ ICEP/IEP window likely passed (A: {a.strftime('%m/%d/%Y')}, B: {b.strftime('%m/%d/%Y')})"
     except:
-        return "❌ Failed to determine ICEP/IEP timing."
+        return "❌ Failed to determine ICEP/IEP."
 
 def check_part_b_status(status):
     if not status or "currently entitled" not in status.lower():
@@ -116,7 +112,7 @@ def check_dst_sep(county, state):
             if today > ends:
                 continue
             if "ALL" in record_counties or county.upper() in record_counties:
-                return f"✅ DST SEP active for {county.title()}, {state.upper()} (ends {ends.strftime('%m/%d/%Y')})"
+                return f"✅ DST SEP active for {county.title()}, {state.upper()} (ends {end})"
         except:
             continue
     return None
@@ -140,23 +136,16 @@ def check_dif_sep(data):
 def check_lec_sep(data):
     elections = data.get("recent_elections", [])
     if any("employer" in e.lower() or "cobra" in e.lower() for e in elections):
-        return "✅ LEC SEP: Recent loss of employer or COBRA coverage."
-    return None
-def check_lec_sep(data):
-    elections = data.get("recent_elections", [])
-    for election in elections:
-        if "lec" in election.lower():
-            return "✅ LEC SEP: Used LEC code recently — review eligibility for SEP."
+        return "✅ LEC SEP: Lost employer or COBRA coverage."
     return None
 
 def show_no_sep_suggestions():
-    suggestions = [
-        ("Check if the customer recently moved", "🏡", "MOV"),
+    return [
+        ("Check if there's a 5-star plan in their area", "⭐", "5ST"),
+        ("Ask if the customer has a chronic condition (e.g., diabetes, heart)", "❤️", "C-SNP"),
+        ("Check if the customer recently moved", "📦", "MOV"),
         ("Ask if they were recently released from jail", "🚓", "INC"),
-        ("Check if there's a 5-star plan available", "⭐", "5ST"),
-        ("Ask if they have a chronic condition (e.g., diabetes, heart)", "❤️", "C-SNP"),
         ("Ask if they lost employer/union/retiree coverage", "📉", "LCC"),
         ("Check if they’re leaving Medicaid or Extra Help soon", "📅", "TRM"),
         ("Check if customer just left a Dual/Chronic SNP plan", "👋", "SNP"),
     ]
-    return suggestions
