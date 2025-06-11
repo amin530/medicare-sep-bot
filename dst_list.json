@@ -1,0 +1,3269 @@
+[
+  {
+    "state": "AZ",
+    "reason": "Fire",
+    "counties": [
+      "Pinal (County)"
+    ],
+    "start_date": "2025-05-21",
+    "end_date": "TBD"
+  },
+  {
+    "state": "MN",
+    "reason": "Fire",
+    "counties": [
+      "St. Louis (County)"
+    ],
+    "start_date": "2025-05-12",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AZ",
+    "reason": "Fire",
+    "counties": [
+      "Apache (County)"
+    ],
+    "start_date": "2025-05-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NC",
+    "reason": "Fire",
+    "counties": [
+      "Brunswick (County)"
+    ],
+    "start_date": "2025-05-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NJ",
+    "reason": "Fire",
+    "counties": [
+      "Ocean (County)"
+    ],
+    "start_date": "2025-04-22",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Meade (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Warren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Muhlenberg (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Anderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Breckinridge (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bullitt (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Butler (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Daviess (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Franklin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carroll (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Trimble (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hopkins (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Christian (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Powell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Mercer (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lincoln (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hart (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jefferson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Webster (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Woodford (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Garrard (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Nelson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Ohio (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "McLean (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jessamine (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Oldham (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grayson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hancock (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clark (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Owen (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Calloway (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hardin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "McCracken (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Larue (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pendleton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NC",
+    "reason": "Fire",
+    "counties": [
+      "Swain (County)"
+    ],
+    "start_date": "2025-04-18",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NM",
+    "reason": "Fire",
+    "counties": [
+      "Valencia (County)"
+    ],
+    "start_date": "2025-04-17",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "St. Francis (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Greene (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hempstead (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cleveland (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hot Spring (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Izard (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jackson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Garland (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Yell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Washington (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Mississippi (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Crawford (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pike (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grant (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lonoke (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Stone (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Union (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Searcy (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sebastian (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Marion (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Woodruff (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "White (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lafayette (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lincoln (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sharp (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Phillips (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Randolph (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Saline (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Newton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Perry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Van Buren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Ouachita (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Montgomery (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Polk (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Logan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Prairie (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Poinsett (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pulaski (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pope (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Boone (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fulton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Arkansas (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Crittenden (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Independence (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Chicot (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sevier (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Scott (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Howard (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Ashley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cleburne (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Madison (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Nevada (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Benton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Baxter (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cross (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clark (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Calhoun (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Johnson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lawrence (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Columbia (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clay (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Monroe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Craighead (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Conway (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bradley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carroll (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Drew (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lee (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Dallas (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Desha (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Faulkner (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Franklin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Little River (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Miller (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "AR",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jefferson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Mercer (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Wolfe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Whitley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Webster (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Union (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Trigg (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Taylor (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Scott (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Rowan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Rockcastle (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Robertson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Oldham (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Perry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Owsley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Monroe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Nicholas (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Muhlenberg (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Montgomery (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Menifee (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Mason (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Martin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Marshall (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "McLean (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "McCracken (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Logan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lincoln (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lee (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bullitt (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jackson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Casey (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hickman (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Meade (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hardin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grayson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grant (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Gallatin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fleming (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Estill (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Edmonson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clinton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Ohio (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Christian (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Nelson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carroll (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carlisle (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Powell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Butler (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bracken (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Livingston (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pendleton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bath (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fayette (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Adair (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fulton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Garrard (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Floyd (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Daviess (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Laurel (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Harlan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Harrison (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hancock (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Simpson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pulaski (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Russell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pike (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hopkins (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hart (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Morgan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Shelby (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Trimble (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Todd (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Kenton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Johnson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Calloway (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Boone (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Boyd (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Graves (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Elliott (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Caldwell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Owen (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Leslie (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Anderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Ballard (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Barren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Boyle (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bourbon (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Breathitt (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cumberland (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Breckinridge (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lyon (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Franklin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Washington (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "McCreary (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Green (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Greenup (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Woodford (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lewis (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Warren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Campbell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clark (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Knox (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carter (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clay (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Crittenden (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jessamine (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Spencer (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Knott (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lawrence (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Larue (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Madison (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Magoffin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Wayne (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Marion (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Letcher (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Metcalfe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "KY",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jefferson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Humphreys (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lewis (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "McNairy (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Marshall (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Overton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Montgomery (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Benton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Rutherford (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Campbell (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cheatham (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cocke (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Davidson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Dyer (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sumner (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Putnam (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Union (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grundy (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Wilson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "White (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Weakley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Wayne (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Washington (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Warren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Van Buren (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Unicoi (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Trousdale (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Tipton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sullivan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Stewart (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Smith (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Shelby (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sevier (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Sequatchie (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Scott (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Robertson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Roane (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Rhea (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Polk (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Pickett (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Perry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Obion (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Morgan (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Moore (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Monroe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Meigs (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Maury (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hamilton (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Marion (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Madison (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Macon (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "McMinn (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Loudon (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lincoln (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lawrence (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lauderdale (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Lake (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Knox (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Johnson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jefferson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Jackson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Houston (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hickman (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henry (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hardin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hancock (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hamblen (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Greene (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Grainger (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Giles (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Franklin (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fentress (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Fayette (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Dickson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "DeKalb (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Decatur (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cumberland (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Crockett (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Coffee (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Clay (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Claiborne (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Chester (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carter (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Carroll (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Cannon (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bradley (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Blount (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bledsoe (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Bedford (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Anderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Gibson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hawkins (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Hardeman (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Haywood (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Williamson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "TN",
+    "reason": "Severe Storm",
+    "counties": [
+      "Henderson (County)"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NC",
+    "reason": "Fire",
+    "counties": [
+      "Transylvania (County)"
+    ],
+    "start_date": "2025-03-26",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NC",
+    "reason": "Fire",
+    "counties": [
+      "Swain (County)"
+    ],
+    "start_date": "2025-03-25",
+    "end_date": "TBD"
+  },
+  {
+    "state": "SC",
+    "reason": "Fire",
+    "counties": [
+      "Greenville (County)"
+    ],
+    "start_date": "2025-03-23",
+    "end_date": "TBD"
+  },
+  {
+    "state": "SC",
+    "reason": "Fire",
+    "counties": [
+      "Pickens (County)"
+    ],
+    "start_date": "2025-03-21",
+    "end_date": "TBD"
+  },
+  {
+    "state": "NC",
+    "reason": "Fire",
+    "counties": [
+      "Polk (County)"
+    ],
+    "start_date": "2025-03-19",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Pawnee (County)"
+    ],
+    "start_date": "2025-03-19",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Grady (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Pawnee (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Creek (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Pawnee (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Payne (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Pottawatomie (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Pottawatomie (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Stephens (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Payne (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Lincoln (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Oklahoma (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Logan (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Creek (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Dewey (County)"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "TBD"
+  },
+  {
+    "state": "SC",
+    "reason": "Fire",
+    "counties": [
+      "Horry (County)"
+    ],
+    "start_date": "2025-03-01",
+    "end_date": "TBD"
+  },
+  {
+    "state": "CA",
+    "reason": "Fire",
+    "counties": [
+      "Los Angeles (County)"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "TBD"
+  },
+  {
+    "state": "CA",
+    "reason": "Fire",
+    "counties": [
+      "Los Angeles (County)"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "TBD"
+  },
+  {
+    "state": "CA",
+    "reason": "Fire",
+    "counties": [
+      "Los Angeles (County)"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Creek (County)"
+    ],
+    "start_date": "2024-10-29",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Payne (County)"
+    ],
+    "start_date": "2024-10-29",
+    "end_date": "TBD"
+  },
+  {
+    "state": "OK",
+    "reason": "Fire",
+    "counties": [
+      "Osage (County)"
+    ],
+    "start_date": "2024-10-29",
+    "end_date": "TBD"
+  },
+  {
+    "state": "CT",
+    "reason": "Fire",
+    "counties": [
+      "New Haven (County)(in (P)MSA 1160,5480,8880)"
+    ],
+    "start_date": "2024-10-21",
+    "end_date": "TBD"
+  },
+  {
+    "state": "CT",
+    "reason": "Fire",
+    "counties": [
+      "Hartford (County)(in PMSA 1170,3280,5440)"
+    ],
+    "start_date": "2024-10-21",
+    "end_date": "TBD"
+  }
+]

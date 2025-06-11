@@ -1,0 +1,2319 @@
+[
+  {
+    "state": "Alabama",
+    "reason": "Hurricane Helene",
+    "counties": [
+      "Autauga",
+      "Baldwin",
+      "Barbour",
+      "Bibb",
+      "Blount",
+      "Bullock",
+      "Butler",
+      "Calhoun",
+      "Chambers",
+      "Cherokee",
+      "Chilton",
+      "Choctaw",
+      "Clarke",
+      "Clay",
+      "Cleburne",
+      "Coffee",
+      "Colbert",
+      "Conecuh",
+      "Coosa",
+      "Covington",
+      "Crenshaw",
+      "Cullman",
+      "Dale",
+      "Dallas",
+      "Dekalb",
+      "Elmore",
+      "Escambia",
+      "Etowah",
+      "Fayette",
+      "Franklin",
+      "Geneva",
+      "Greene",
+      "Hale",
+      "Henry",
+      "Houston",
+      "Jackson",
+      "Jefferson",
+      "Lamar",
+      "Lauderdale",
+      "Lawrence",
+      "Lee",
+      "Limestone",
+      "Lowndes",
+      "Macon",
+      "Madison",
+      "Marengo",
+      "Marion",
+      "Marshall",
+      "Mobile",
+      "Monroe",
+      "Montgomery",
+      "Morgan",
+      "Perry",
+      "Pickens",
+      "Pike",
+      "Randolph",
+      "Russell",
+      "Shelby",
+      "St. Clair",
+      "Sumter",
+      "Talladega",
+      "Tallapoosa",
+      "Tuscaloosa",
+      "Walker",
+      "Washington",
+      "Wilcox",
+      "Winston"
+    ],
+    "start_date": "2024-09-22",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Straight-Line Winds, Lightning, Hail and Tornadoes",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Arizona",
+    "reason": "Simmons Fire",
+    "counties": [
+      "Pinal"
+    ],
+    "start_date": "2024-05-28",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Rose Fire",
+    "counties": [
+      "Maricopa"
+    ],
+    "start_date": "2024-06-12",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Boulder View Fire",
+    "counties": [
+      "Maricopa"
+    ],
+    "start_date": "2024-06-27",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Shake Fire",
+    "counties": [
+      "Pinal"
+    ],
+    "start_date": "2024-07-09",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Watch Fire",
+    "counties": [
+      "San Carlos Indian Reservation"
+    ],
+    "start_date": "2024-07-10",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "Arkansas",
+    "reason": "Winter Weather Emergency Declaration",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-01-09",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Storms, Tornadoes, and Flooding",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Storms, Tornadoes, and Flooding",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-04-02",
+    "end_date": "2026-06-30"
+  },
+  {
+    "state": "California",
+    "reason": "Palisades Fire",
+    "counties": [
+      "Los Angeles",
+      "Ventura"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Wildfires and Straight-line Winds",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "California Wildfires and Straight-line Winds",
+    "counties": [
+      "Los Angeles"
+    ],
+    "start_date": "2025-01-07",
+    "end_date": "2026-05-31"
+  },
+  {
+    "state": "Connecticut",
+    "reason": "Severe Storms, Flooding, Landslides, and Mudslides",
+    "counties": [
+      "Fairfield",
+      "Litchfield",
+      "New Haven"
+    ],
+    "start_date": "2024-08-18",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Hawthorne Fire",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-10-21",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Florida",
+    "reason": "Hurricane Ian",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2022-09-23",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Hurricane Idalia",
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bradford",
+      "Brevard",
+      "Calhoun",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "Desoto",
+      "Dixie",
+      "Duval",
+      "Flagler",
+      "Franklin",
+      "Gadsden",
+      "Gilchrist",
+      "Gulf",
+      "Hamilton",
+      "Hardee",
+      "Hernando",
+      "Hillsborough",
+      "Jefferson",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Leon",
+      "Levy",
+      "Liberty",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Nassau",
+      "Orange",
+      "Osceola",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Volusia",
+      "Wakulla"
+    ],
+    "start_date": "2023-08-26",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "May North Florida Tornadoes",
+    "counties": [
+      "Baker",
+      "Columbia",
+      "Escambia",
+      "Gadsden",
+      "Hamilton",
+      "Jefferson",
+      "Lafayette",
+      "Leon",
+      "Liberty",
+      "Madison",
+      "Okaloosa",
+      "Santa Rosa",
+      "Suwannee",
+      "Taylor",
+      "Wakulla"
+    ],
+    "start_date": "2024-05-10",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Invest 90L \u2013 South Florida Flash Flooding",
+    "counties": [
+      "Broward",
+      "Collier",
+      "Lee",
+      "Miami\u2010Dade",
+      "Sarasota"
+    ],
+    "start_date": "2024-06-11",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Invest 97L \u2013 Hurricane Debby",
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bradford",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "Dixie",
+      "Duval",
+      "Franklin",
+      "Gadsden",
+      "Gilchrist",
+      "Hamilton",
+      "Hernando",
+      "Hillsborough",
+      "Jefferson",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Leon",
+      "Levy",
+      "Liberty",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Nassau",
+      "Pasco",
+      "Pinellas",
+      "Putnam",
+      "Sarasota",
+      "St. Johns",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Wakulla"
+    ],
+    "start_date": "2024-08-01",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Hurricane Debby",
+    "counties": [
+      "Columbia",
+      "Dixie",
+      "Gilchrist",
+      "Hamilton",
+      "Lafayette",
+      "Levy",
+      "Manatee",
+      "Sarasota",
+      "Suwanee",
+      "Taylor"
+    ],
+    "start_date": "2024-08-01",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Hurricane Debby",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-08-01",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Potential Tropical Cyclone Nine - Hurricane Helene",
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bay",
+      "Bradford",
+      "Brevard",
+      "Calhoun",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "Desoto",
+      "Dixie",
+      "Duval",
+      "Escambia",
+      "Flagler",
+      "Franklin",
+      "Gadsden",
+      "Gilchrist",
+      "Glades",
+      "Gulf",
+      "Hamilton",
+      "Hardee",
+      "Hendry",
+      "Hernando",
+      "Highlands",
+      "Hillsborough",
+      "Holmes",
+      "Jackson",
+      "Jefferson",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Leon",
+      "Levy",
+      "Liberty",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Monroe",
+      "Nassau",
+      "Okaloosa",
+      "Okeechobee",
+      "Orange",
+      "Osceola",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Santa Rosa",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Volusia",
+      "Wakulla",
+      "Walton",
+      "Washington"
+    ],
+    "start_date": "2024-09-23",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Hurricane Helene",
+    "counties": [
+      "Charlotte",
+      "Citrus",
+      "Dixie",
+      "Franklin",
+      "Hernando",
+      "Hillsborough",
+      "Jefferson",
+      "Lafayette",
+      "Lee",
+      "Levy",
+      "Madison",
+      "Manatee",
+      "Pasco",
+      "Pinellas",
+      "Sarasota",
+      "Taylor",
+      "Wakulla"
+    ],
+    "start_date": "2024-09-23",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Tropical Storm Helene",
+    "counties": [
+      "Alachua",
+      "Bay",
+      "Bradford",
+      "Calhoun",
+      "Charlotte",
+      "Citrus",
+      "Collier",
+      "Columbia",
+      "Dixie",
+      "Escambia",
+      "Franklin",
+      "Gadsden",
+      "Gilchrist",
+      "Gulf",
+      "Hamilton",
+      "Hernando",
+      "Hillsborough",
+      "Holmes",
+      "Jackson",
+      "Jefferson",
+      "Lafayette",
+      "Lee",
+      "Leon",
+      "Levy",
+      "Liberty",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Monroe",
+      "Okaloosa",
+      "Pasco",
+      "Pinellas",
+      "Santa Rosa",
+      "Sarasota",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Wakulla",
+      "Walton",
+      "Washington"
+    ],
+    "start_date": "2024-09-23",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Tropical Storm Milton",
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bradford",
+      "Brevard",
+      "Broward",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "Desoto",
+      "Dixie",
+      "Duval",
+      "Flagler",
+      "Gilchrist",
+      "Glades",
+      "Hamilton",
+      "Hardee",
+      "Hendry",
+      "Hernando",
+      "Highlands",
+      "Hillsborough",
+      "Indian River",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Levy",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Martin",
+      "MiamiDade",
+      "Monroe",
+      "Nassau",
+      "Okeechobee",
+      "Orange",
+      "Osceola",
+      "Palm Beach",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "St. Lucie",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Volusia"
+    ],
+    "start_date": "2024-10-05",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Hurricane Milton",
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bradford",
+      "Brevard",
+      "Broward",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "DeSoto",
+      "Dixie",
+      "Duval",
+      "Flagler",
+      "Gilchrist",
+      "Glades",
+      "Hamilton",
+      "Hardee",
+      "Hendry",
+      "Hernando",
+      "Highlands",
+      "Hillsborough",
+      "Indian River",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Levy",
+      "Madison",
+      "Manatee",
+      "Marion",
+      "Martin",
+      "MiamiDade",
+      "Monroe",
+      "Nassau",
+      "Okeechobee",
+      "Orange",
+      "Osceola",
+      "Palm Beach",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "St. Lucie",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Volusia"
+    ],
+    "start_date": "2024-10-05",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Hurricane Milton",
+    "counties": [
+      "Big Cypress Indian Reservation",
+      "Brighton Indian Reservation",
+      "Fort Pierce Indian Reservation",
+      "Hollywood Indian Reservation",
+      "Immokalee Indian Reservation",
+      "Tampa Reservation"
+    ],
+    "start_date": "2024-10-05",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Florida Hurricane Milton",
+    "counties": [
+      "Brevard",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "DeSoto",
+      "Duval",
+      "Flagler",
+      "Glades",
+      "Hardee",
+      "Hendry",
+      "Hernando",
+      "Highlands",
+      "Hillsborough",
+      "Indian River",
+      "Lake",
+      "Lee",
+      "Manatee",
+      "Marion",
+      "Martin",
+      "Miccosukee Indian Reservation",
+      "Okeechobee",
+      "Orange",
+      "Osceola",
+      "Palm Beach",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "St. Lucie",
+      "Sumter",
+      "Volusia"
+    ],
+    "start_date": "2024-10-05",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Seminole Tribe of Florida Hurricane Milton",
+    "counties": [
+      "Big Cypress Indian Reservation",
+      "Brighton Indian Reservation",
+      "Fort Pierce Indian Reservation",
+      "Hollywood Indian Reservation",
+      "Immokalee Indian Reservation",
+      "Tampa Reservation"
+    ],
+    "start_date": "2024-10-05",
+    "end_date": "2026-01-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Widespread Impactful Winter Weather",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-01-20",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Northwest Florida May Tornadoes",
+    "counties": [
+      "Holmes"
+    ],
+    "start_date": "2025-05-10",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "Georgia",
+    "reason": "Hurricane Debby",
+    "counties": [
+      "Appling",
+      "Atkinson",
+      "Bacon",
+      "Ben Hill",
+      "Berrien",
+      "Brantley",
+      "Brooks",
+      "Bryan",
+      "Bulloch",
+      "Burke",
+      "Camden",
+      "Candler",
+      "Charlton",
+      "Chatham",
+      "Clinch",
+      "Coffee",
+      "Colquitt",
+      "Cook",
+      "Crisp",
+      "Decatur",
+      "Dodge",
+      "Echols",
+      "Effingham",
+      "Emanuel",
+      "Evans",
+      "Glynn",
+      "Grady",
+      "Irwin",
+      "Jeff Davis",
+      "Jefferson",
+      "Jenkins",
+      "Johnson",
+      "Lanier",
+      "Laurens",
+      "Liberty",
+      "Long",
+      "Lowndes",
+      "McIntosh",
+      "Mitchell",
+      "Montgomery",
+      "Pierce",
+      "Richmond",
+      "Screven",
+      "Tattnall",
+      "Telfair",
+      "Thomas",
+      "Tift",
+      "Toombs",
+      "Treutlen",
+      "Turner",
+      "Ware",
+      "Wayne",
+      "Wheeler",
+      "Wilcox",
+      "Worth"
+    ],
+    "start_date": "2024-08-04",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-24",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Georgia Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-24",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Georgia Hurricane Helene",
+    "counties": [
+      "Appling",
+      "Atkinson",
+      "Bacon",
+      "Ben Hill",
+      "Berrien",
+      "Brooks",
+      "Bulloch",
+      "Burke",
+      "Candler",
+      "Chatham",
+      "Clinch",
+      "Coffee",
+      "Colquitt",
+      "Columbia",
+      "Cook Echols",
+      "Effingham",
+      "Elbert",
+      "Emanuel",
+      "Glascock",
+      "Irwin",
+      "Jeff Davis",
+      "Jefferson",
+      "Jenkins",
+      "Johnson",
+      "Lanier",
+      "Laurens",
+      "Liberty",
+      "Lincoln",
+      "Lowndes",
+      "McDuffie",
+      "Montgomery",
+      "Pierce",
+      "Rabun",
+      "Richmond",
+      "Screven",
+      "Tattnall",
+      "Telfair",
+      "Tift",
+      "Toombs",
+      "Treutlen",
+      "Ware",
+      "Washington",
+      "Wheeler"
+    ],
+    "start_date": "2024-09-24",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Thunderstorm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-15",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Hawaii",
+    "reason": "Wildfires - Twenty-First Proclamation",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-01-08",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Heavy Rains and Flooding",
+    "counties": [
+      "Kauai"
+    ],
+    "start_date": "2024-03-03",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Telecommunications Interruptions",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-05-30",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Indiana",
+    "reason": "Severe Weather, Tornadic Activity, and Flooding",
+    "counties": [
+      "Bartholomew",
+      "Brown",
+      "Clark",
+      "Clay",
+      "Crawford",
+      "Dearborn",
+      "Delaware",
+      "Elkhart",
+      "Floyd",
+      "Gibson",
+      "Greene",
+      "Hamilton",
+      "Hancock",
+      "Harrison",
+      "Hendricks",
+      "Jefferson",
+      "Jennings",
+      "La Porte",
+      "Lagrange",
+      "Lake",
+      "Madison",
+      "Marshall",
+      "Martin",
+      "Morgan",
+      "Owen",
+      "Perry",
+      "Porter",
+      "Posey",
+      "Shelby",
+      "Spencer",
+      "Steuben",
+      "Switzerland",
+      "Vigo",
+      "Warrick",
+      "Washington"
+    ],
+    "start_date": "2025-03-30",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "Iowa",
+    "reason": "Iowa Severe Storms, Flooding, Straight\u2010line Winds, and Tornadoes",
+    "counties": [
+      "Buena Vista",
+      "Clay",
+      "Dickinson",
+      "Emmet",
+      "Lyon",
+      "O\u2019Brien",
+      "Osceola",
+      "Plymouth",
+      "Sioux"
+    ],
+    "start_date": "2024-06-16",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Highly Pathogenic Avian Influenza",
+    "counties": [
+      "Sac"
+    ],
+    "start_date": "2024-12-05",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Winter Storm Systems",
+    "counties": [
+      "Crawford",
+      "Harrison",
+      "Monona",
+      "Shelby",
+      "Woodbury"
+    ],
+    "start_date": "2025-03-19",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Winter Storm Systems",
+    "counties": [
+      "Harrison"
+    ],
+    "start_date": "2025-03-19",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Winter Storm Systems",
+    "counties": [
+      "Buena Vista",
+      "Fremont",
+      "Page",
+      "Plymouth"
+    ],
+    "start_date": "2025-04-17",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "Kentucky",
+    "reason": "Severe Winter Storm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-14",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Storms",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-14",
+    "end_date": "2026-04-30"
+  },
+  {
+    "state": "Louisiana",
+    "reason": "Winter Weather Preparation",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-01-18",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Michigan",
+    "reason": "Impactful Winter Weather",
+    "counties": [
+      "Alcona",
+      "Alpena",
+      "Antrim",
+      "Charlevoix",
+      "Cheboygan",
+      "Crawford",
+      "Emmet",
+      "Mackinac",
+      "Montmorency",
+      "Oscoda",
+      "Otsego",
+      "Presque Isle"
+    ],
+    "start_date": "2025-03-28",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Minnesota",
+    "reason": "Severe Winter Storm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-04",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Minnesota Severe Storms and Flooding",
+    "counties": [
+      "Blue Earth",
+      "Carver",
+      "Cass",
+      "Cook",
+      "Cottonwood",
+      "Faribault",
+      "Fillmore",
+      "Freeborn",
+      "Goodhue",
+      "Jackson",
+      "Lake",
+      "Le Seur",
+      "Murray",
+      "Nobles",
+      "Pipestone",
+      "Rice",
+      "Rock",
+      "St. Louis",
+      "Steele",
+      "Wabasha",
+      "Watonwan"
+    ],
+    "start_date": "2024-06-16",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "Mississippi",
+    "reason": "High Winds, Tornadoes, and Flooding",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Missouri",
+    "reason": "Severe Winter Storm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-10",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Tornadoes, Straight-Line Winds, Large Hail, Heavy Rains, and Flash Flooding",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "Montana",
+    "reason": "Severe Thunderstorm Event",
+    "counties": [
+      "Custer"
+    ],
+    "start_date": "2024-07-13",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Thunderstorm Event",
+    "counties": [
+      "Ravalli"
+    ],
+    "start_date": "2024-08-23",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Nebraska",
+    "reason": "Custer Complex Fire",
+    "counties": [
+      "Custer"
+    ],
+    "start_date": "2025-02-24",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Schaffer Road Fire",
+    "counties": [
+      "Dawes"
+    ],
+    "start_date": "2024-02-25",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Winter Storm and Blizzard",
+    "counties": [
+      "Burt",
+      "Butler",
+      "Cass",
+      "Clay",
+      "Colfax",
+      "Cuming",
+      "Dodge",
+      "Douglas",
+      "Fillmore",
+      "Gage",
+      "Jefferson",
+      "Lancaster",
+      "Nuckolls",
+      "Platte",
+      "Polk",
+      "Saline",
+      "Sarpy",
+      "Saunders",
+      "Seward",
+      "Thayer",
+      "Thurston",
+      "Washington",
+      "Wayne",
+      "York"
+    ],
+    "start_date": "2025-03-18",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "New Jersey",
+    "reason": "I-80 Sinkhole",
+    "counties": [
+      "Morris"
+    ],
+    "start_date": "2024-12-26",
+    "end_date": "2026-01-31"
+  },
+  {
+    "state": "New Mexico",
+    "reason": "Rio Grande Fire",
+    "counties": [
+      "Valencia"
+    ],
+    "start_date": "2025-04-17",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "New York",
+    "reason": "Severe Weather Event",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-14",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Wildfires",
+    "counties": [
+      "Suffolk"
+    ],
+    "start_date": "2025-03-08",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "North Carolina",
+    "reason": "Tropical Storm Debby",
+    "counties": [
+      "Alamance",
+      "Anson",
+      "Beaufort",
+      "Bertie",
+      "Bladen",
+      "Brunswick",
+      "Camden",
+      "Carteret",
+      "Caswell",
+      "Chatham",
+      "Chowan",
+      "Columbus",
+      "Craven",
+      "Cumberland",
+      "Currituck",
+      "Dare",
+      "Davidson",
+      "Davie",
+      "Duplin",
+      "Durham",
+      "Edgecombe",
+      "Forsyth",
+      "Franklin",
+      "Gates",
+      "Granville",
+      "Greene",
+      "Guilford",
+      "Halifax",
+      "Harnett",
+      "Hertford",
+      "Hoke",
+      "Hyde",
+      "Johnston",
+      "Jones",
+      "Lee",
+      "Lenoir",
+      "Martin",
+      "Montgomery",
+      "Moore",
+      "Nash",
+      "New Hanover",
+      "Northampton",
+      "Onslow",
+      "Orange",
+      "Pamlico",
+      "Pasquotank",
+      "Pender",
+      "Perquimans",
+      "Person",
+      "Pitt",
+      "Randolph",
+      "Richmond",
+      "Robeson",
+      "Rockingham",
+      "Sampson",
+      "Scotland",
+      "Stokes",
+      "Surry",
+      "Tyrrell",
+      "Vance",
+      "Wake",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Wilson",
+      "Yadkin"
+    ],
+    "start_date": "2024-08-05",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "North Carolina Tropical Storm Helene",
+    "counties": [
+      "Alexander",
+      "Alleghany",
+      "Ashe",
+      "Avery",
+      "Buncombe",
+      "Burke",
+      "Caldwell",
+      "Catawba",
+      "Clay",
+      "Cleveland",
+      "Eastern Band of Cherokee Indians of North Carolina",
+      "Gaston",
+      "Haywood",
+      "Henderson",
+      "Jackson",
+      "Lincoln",
+      "Macon",
+      "Madison",
+      "McDowell",
+      "Mitchell",
+      "Polk",
+      "Rutherford",
+      "Transylvania",
+      "Watuaga",
+      "Wilkes",
+      "Yancey"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Winter Storm",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-19",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Wildfires",
+    "counties": [
+      "Alexander",
+      "Alleghany",
+      "Ashe",
+      "Avery",
+      "Buncombe",
+      "Burke",
+      "Cabarrus",
+      "Caldwell",
+      "Catawba",
+      "Cherokee",
+      "Clay",
+      "Cleveland",
+      "Gaston",
+      "Graham",
+      "Haywood",
+      "Henderson",
+      "Iredell",
+      "Jackson",
+      "Lincoln",
+      "Macon",
+      "Madison",
+      "Mcdowell",
+      "Mecklenburg",
+      "Mitchell",
+      "Polk",
+      "Rowan",
+      "Rutherford",
+      "Stanly",
+      "Swain",
+      "Transylvania",
+      "Union",
+      "Watauga",
+      "Wilkes",
+      "Yancey"
+    ],
+    "start_date": "2025-03-19",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "North Dakota",
+    "reason": "Elevated Fire Risk",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-10",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "Ohio",
+    "reason": "Winter Weather System",
+    "counties": [
+      "Ashtabula",
+      "Cuyahoga",
+      "Geauga",
+      "Lake"
+    ],
+    "start_date": "2024-11-28",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Oklahoma",
+    "reason": "Severe Storms",
+    "counties": [
+      "Carter",
+      "Hughes",
+      "Love",
+      "Murray"
+    ],
+    "start_date": "2024-04-25",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Oklahoma Severe Storms, Straight-Line Winds, Tornadoes, and Flooding",
+    "counties": [
+      "Adair",
+      "Garvin",
+      "Jefferson",
+      "Lincoln",
+      "Okfuskee",
+      "Oklahoma",
+      "Stephens",
+      "Washita"
+    ],
+    "start_date": "2024-11-02",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Wildfires and Straight-Line Winds",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-14",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Oregon",
+    "reason": "Darlene 3 Fire",
+    "counties": [
+      "Deschutes"
+    ],
+    "start_date": "2024-06-25",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "State of Drought Emergency",
+    "counties": [
+      "Wasco"
+    ],
+    "start_date": "2024-07-09",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Cow Valley Fire",
+    "counties": [
+      "Malheur"
+    ],
+    "start_date": "2024-07-12",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Series of Fires in Umatilla County",
+    "counties": [
+      "Umatilla"
+    ],
+    "start_date": "2024-07-12",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Imminent Threat of Wildfire",
+    "counties": [
+      "Wasco"
+    ],
+    "start_date": "2024-07-12",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Falls Fire",
+    "counties": [
+      "Harney"
+    ],
+    "start_date": "2024-07-14",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Lone Rock Fire",
+    "counties": [
+      "Gilliam",
+      "Morrow",
+      "Wheeler"
+    ],
+    "start_date": "2024-07-15",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Durkee Fire in Baker County",
+    "counties": [
+      "Baker"
+    ],
+    "start_date": "2024-07-20",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Battle Mountain Complex Fire",
+    "counties": [
+      "Grant",
+      "Umatilla"
+    ],
+    "start_date": "2024-07-21",
+    "end_date": "2025-09-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Telephone Fire",
+    "counties": [
+      "Harney"
+    ],
+    "start_date": "2024-08-01",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Elk Lane Fire",
+    "counties": [
+      "Jefferson"
+    ],
+    "start_date": "2024-08-05",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Town Gulch Fire",
+    "counties": [
+      "Baker"
+    ],
+    "start_date": "2024-08-06",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Dixon Fire",
+    "counties": [
+      "Douglas"
+    ],
+    "start_date": "2024-08-10",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Copperfield Fire in Klamath County",
+    "counties": [
+      "Klamath"
+    ],
+    "start_date": "2024-09-01",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Service Fire in Wheeler County",
+    "counties": [
+      "Wheeler"
+    ],
+    "start_date": "2024-09-09",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Flooding and Landslides",
+    "counties": [
+      "Clackamas",
+      "Coos",
+      "Curry",
+      "Douglas",
+      "Harney",
+      "Jackson",
+      "Josephine",
+      "Lane",
+      "Multnomah",
+      "and Malheur"
+    ],
+    "start_date": "2025-02-23",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Puerto Rico",
+    "reason": "Torrential Rain and Flooding",
+    "counties": [
+      "Adjuntas",
+      "Arecibo",
+      "Camuy",
+      "Ciales",
+      "Corozal",
+      "Guayanilla",
+      "Lares",
+      "Manati",
+      "Maricao",
+      "Mayaguez",
+      "Naranjito",
+      "Ponce",
+      "Rio Grande",
+      "Sabana Grande",
+      "Toa Alta",
+      "Toa Baja",
+      "Utuado",
+      "Yauco"
+    ],
+    "start_date": "2024-05-08",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Prolonged Power Outage",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-06-12",
+    "end_date": "2025-08-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Tropical Storm Ernesto",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-08-12",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Tropical Storm Ernesto",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-08-13",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Landslides",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-01-02",
+    "end_date": "2026-03-31"
+  },
+  {
+    "state": "Rhode Island",
+    "reason": "Nursing Home Disaster",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2023-12-29",
+    "end_date": "2025-07-31"
+  },
+  {
+    "state": "South Carolina",
+    "reason": "Hurricane Debby",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-08-04",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "South Carolina Hurricane Helene",
+    "counties": [
+      "Aiken",
+      "Anderson",
+      "Bamberg",
+      "Barnwell",
+      "Cherokee",
+      "Greenville",
+      "Greenwood",
+      "Lexington",
+      "Newberry",
+      "Oconee",
+      "Pickens",
+      "Saluda",
+      "Spartanburg"
+    ],
+    "start_date": "2024-09-24",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "South Carolina Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Abnormally High Fire Occurrences",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-01",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Wildfires and Enhance Fire Risk",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-03-21",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Tennessee",
+    "reason": "Hurricane Helene",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-09-26",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Tennessee Tropical Storm Helene",
+    "counties": [
+      "Carter",
+      "Cocke",
+      "Greene",
+      "Hamblen",
+      "Hawkins",
+      "Johnson",
+      "Unicoi",
+      "Washington"
+    ],
+    "start_date": "2024-09-26",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Tennessee Tropical Storm Helene",
+    "counties": [
+      "Carter",
+      "Cocke",
+      "Greene",
+      "Hamblen",
+      "Hawkins",
+      "Johnson",
+      "Unicoi",
+      "Washington"
+    ],
+    "start_date": "2024-09-26",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "Texas",
+    "reason": "Border Security",
+    "counties": [
+      "Aransas",
+      "Atascosa",
+      "Bee",
+      "Brewster",
+      "Brooks",
+      "Caldwell",
+      "Cameron",
+      "Chambers",
+      "Coleman",
+      "Colorado",
+      "Crane",
+      "Crockett",
+      "Culberson",
+      "Dewitt",
+      "Dimmit",
+      "Duval",
+      "Edwards",
+      "El Paso",
+      "Frio",
+      "Galveston",
+      "Goliad",
+      "Gonzales",
+      "Hidalgo",
+      "Hudspeth",
+      "Jackson",
+      "Jeff Davis",
+      "Jim Hogg",
+      "Jim Wells",
+      "Kenedy",
+      "Kerr",
+      "Kimble",
+      "Kinney",
+      "Kleberg",
+      "La Salle",
+      "Lavaca",
+      "Live Oak",
+      "Mason",
+      "Maverick",
+      "Mcculloch",
+      "Mcmullen",
+      "Medina",
+      "Menard",
+      "Midland",
+      "Pecos",
+      "Presidio",
+      "Real",
+      "Refugio",
+      "San Patricio",
+      "Schleicher",
+      "Shackelford",
+      "Sutton",
+      "Terrell",
+      "Throckmorton",
+      "Uvalde",
+      "Val Verde",
+      "Victoria",
+      "Webb",
+      "Wharton",
+      "Wilbarger",
+      "Wilson",
+      "Zapata",
+      "Zavala"
+    ],
+    "start_date": "2022-05-31",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Texas Drought",
+    "counties": [
+      "Archer",
+      "Bandera",
+      "Bastrop",
+      "Bexar",
+      "Blanco",
+      "Brewster",
+      "Burnet",
+      "Calhoun",
+      "Cameron",
+      "Childress",
+      "Clay",
+      "Colorado",
+      "Comal",
+      "Comanche",
+      "Cottle",
+      "Culberson",
+      "Denton",
+      "El Paso",
+      "Foard",
+      "Gillespie",
+      "Hall",
+      "Hamilton",
+      "Hardeman",
+      "Hays",
+      "Hemphill",
+      "Hidalgo",
+      "Hudspeth",
+      "Irion",
+      "Jeff Davis",
+      "Karnes",
+      "Kendall",
+      "Kerr",
+      "Lampasas",
+      "Lavaca",
+      "Lipscomb",
+      "Llano",
+      "Loving",
+      "Lubbock",
+      "Matagorda",
+      "Maverick",
+      "Medina",
+      "Midland",
+      "Mitchell",
+      "Presidio",
+      "Real",
+      "Reeves",
+      "Tom Green",
+      "Travis",
+      "Uvalde",
+      "Val Verde",
+      "Victoria",
+      "Ward",
+      "Wharton",
+      "Wichita",
+      "Wilbarger",
+      "Willacy",
+      "Williamson",
+      "Zapata"
+    ],
+    "start_date": "2022-07-08",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Texas Hurricane Beryl",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-07-05",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Elevated Fire Weather Conditions",
+    "counties": [
+      "Anderson",
+      "Andrews",
+      "Angelina",
+      "Aransas",
+      "Archer",
+      "Armstrong",
+      "Atascosa",
+      "Austin",
+      "Bailey",
+      "Bandera",
+      "Bastrop",
+      "Baylor",
+      "Bee",
+      "Bell",
+      "Bexar",
+      "Blanco",
+      "Borden",
+      "Bosque",
+      "Brazos",
+      "Brewster",
+      "Briscoe",
+      "Brooks",
+      "Brown",
+      "Burleson",
+      "Burnet",
+      "Caldwell",
+      "Calhoun",
+      "Callahan",
+      "Cameron",
+      "Camp",
+      "Carson",
+      "Castro",
+      "Cherokee",
+      "Childress",
+      "Clay",
+      "Cochran",
+      "Coke",
+      "Coleman",
+      "Collin",
+      "Collingsworth",
+      "Colorado",
+      "Comal",
+      "Comanche",
+      "Concho",
+      "Cooke",
+      "Coryell",
+      "Cottle",
+      "Crane",
+      "Crockett",
+      "Crosby",
+      "Culberson",
+      "Dallam",
+      "Dallas",
+      "Dawson",
+      "Deaf Smith",
+      "Delta",
+      "Denton",
+      "DeWitt",
+      "Dickens",
+      "Dimmit",
+      "Donley",
+      "Duval",
+      "Eastland",
+      "Ector",
+      "Edwards",
+      "El Paso",
+      "Ellis",
+      "Erath",
+      "Falls",
+      "Fannin",
+      "Fayette",
+      "Fisher",
+      "Floyd",
+      "Foard",
+      "Fort Bend",
+      "Franklin",
+      "Freestone",
+      "Frio",
+      "Gaines",
+      "Garza",
+      "Gillespie",
+      "Glasscock",
+      "Goliad",
+      "Gonzales",
+      "Gray",
+      "Grayson",
+      "Gregg",
+      "Grimes",
+      "Guadalupe",
+      "Hale",
+      "Hall",
+      "Hamilton",
+      "Hansford",
+      "Hardeman",
+      "Harris",
+      "Hartley",
+      "Haskell",
+      "Hays",
+      "Hemphill",
+      "Henderson",
+      "Hidalgo",
+      "Hill",
+      "Hockley",
+      "Hood",
+      "Hopkins",
+      "Houston",
+      "Howard",
+      "Hudspeth",
+      "Hunt",
+      "Hutchinson",
+      "Irion",
+      "Jack",
+      "Jackson",
+      "Jeff Davis",
+      "Jim Hogg",
+      "Jim Wells",
+      "Johnson",
+      "Jones",
+      "Karnes",
+      "Kaufman",
+      "Kendall",
+      "Kenedy",
+      "Kent",
+      "Kerr",
+      "Kimble",
+      "King",
+      "Kinney",
+      "Kleberg",
+      "Knox",
+      "La Salle",
+      "Lamar",
+      "Lamb",
+      "Lampasas",
+      "Lavaca",
+      "Lee",
+      "Leon",
+      "Limestone",
+      "Lipscomb",
+      "Live Oak",
+      "Llano",
+      "Loving",
+      "Lubbock",
+      "Lynn",
+      "Madison",
+      "Martin",
+      "Mason",
+      "Matagorda",
+      "Maverick",
+      "Mcculloch",
+      "Mclennan",
+      "McMullen",
+      "Medina",
+      "Menard",
+      "Midland",
+      "Milam",
+      "Mills",
+      "Mitchell",
+      "Montague",
+      "Montgomery",
+      "Moore",
+      "Morris",
+      "Motley",
+      "Nacogdoches",
+      "Navarro",
+      "Nolan",
+      "Nueces",
+      "Ochiltree",
+      "Oldham",
+      "Palo Pinto",
+      "Parker",
+      "Parmer",
+      "Pecos",
+      "Polk",
+      "Potter",
+      "Presidio",
+      "Rains",
+      "Randall",
+      "Reagan",
+      "Real",
+      "Red River",
+      "Reeves",
+      "Refugio",
+      "Roberts",
+      "Robertson",
+      "Rockwall",
+      "Runnels",
+      "Rusk",
+      "San Jacinto",
+      "San Patricio",
+      "San Saba",
+      "Schleicher",
+      "Scurry",
+      "Shackelford",
+      "Sherman",
+      "Smith",
+      "Somervell",
+      "Starr",
+      "Stephens",
+      "Sterling",
+      "Stonewall",
+      "Sutton",
+      "Swisher",
+      "Tarrant",
+      "Taylor",
+      "Terrell",
+      "Terry",
+      "Throckmorton",
+      "Titus",
+      "Tom Green",
+      "Travis",
+      "Trinity",
+      "Upshur",
+      "Upton",
+      "Uvalde",
+      "Val Verde",
+      "Van Zandt",
+      "Victoria",
+      "Walker",
+      "Waller",
+      "Ward",
+      "Washington",
+      "Webb",
+      "Wharton",
+      "Wheeler",
+      "Wichita",
+      "Wilbarger",
+      "Willacy",
+      "Williamson",
+      "Wilson",
+      "Winkler",
+      "Wise",
+      "Wood",
+      "Yoakum",
+      "Young",
+      "Zapata",
+      "Zavala"
+    ],
+    "start_date": "2024-10-14",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Heavy Rainfall, Flash Flooding, and Hazardous Wind Gusts",
+    "counties": [
+      "Cameron",
+      "Hidalgo",
+      "Starr",
+      "and Willacy"
+    ],
+    "start_date": "2025-03-27",
+    "end_date": "2025-06-30"
+  },
+  {
+    "state": "Vermont",
+    "reason": "Severe Weather",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-07-09",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "Virginia",
+    "reason": "Virginia Post-tropical Cyclone Helene",
+    "counties": [
+      "Galax",
+      "Grayson",
+      "Smyth",
+      "Tazewell",
+      "Washington",
+      "Wise",
+      "Wythe"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-11-30"
+  },
+  {
+    "state": "nan",
+    "reason": "Virginia Tropical Storm Helene",
+    "counties": [
+      "Bedford",
+      "Bland",
+      "Bristol",
+      "Buchanan",
+      "Carroll",
+      "Covington",
+      "Craig",
+      "Danville",
+      "Dickenson",
+      "Galax",
+      "Giles",
+      "Grayson",
+      "Montgomery",
+      "Norton",
+      "Pittsylvania",
+      "Pulaski",
+      "Radford",
+      "Russell",
+      "Scott",
+      "Smyth",
+      "Tazewell",
+      "Washington",
+      "Wise",
+      "Wythe"
+    ],
+    "start_date": "2024-09-25",
+    "end_date": "2025-12-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Winter Weather",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2025-02-09",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Vermont",
+    "reason": "Severe Weather",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2023-07-09",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Vermont Tropical Depression Debby",
+    "counties": [
+      "All"
+    ],
+    "start_date": "2024-08-08",
+    "end_date": "2025-10-31"
+  },
+  {
+    "state": "nan",
+    "reason": "Severe Rainstorm and Flooding",
+    "counties": [
+      "Cabell",
+      "Kanawha"
+    ],
+    "start_date": "2025-02-06",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Washington",
+    "reason": "Series of Severe Storm Events including a \u201cBomb Cyclone\u201d",
+    "counties": [
+      "Chelan",
+      "Clallam",
+      "Grays Harbor",
+      "Island",
+      "Jefferson",
+      "King",
+      "Pacific",
+      "Snohomish",
+      "Wahkiakum",
+      "Walla Walla",
+      "Whatcom"
+    ],
+    "start_date": "2024-11-17",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "West Virginia",
+    "reason": "Severe Rainstorm and Flooding",
+    "counties": [
+      "Cabell",
+      "Kanawha"
+    ],
+    "start_date": "2025-02-06",
+    "end_date": "2025-05-31"
+  },
+  {
+    "state": "Wyoming",
+    "reason": "Impacts from Wildfires",
+    "counties": [
+      "Campbell",
+      "Converse",
+      "Crook",
+      "Fremont",
+      "Goshen",
+      "Johnson",
+      "Park",
+      "Platte",
+      "Sheridan",
+      "Sublette",
+      "Teton",
+      "Weston"
+    ],
+    "start_date": "2024-07-01",
+    "end_date": "2026-01-31"
+  }
+]
